@@ -203,6 +203,7 @@
 
 ## linux 
 
+- [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with.
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
@@ -248,8 +249,9 @@
 
 ## others 
 
+- [janleigh/walls](https://github.com/janleigh/walls) - 🖼️ my own wallpaper repository.
 - [Kharacternyk/pacwall](https://github.com/Kharacternyk/pacwall) - A live wallpaper that shows the dependency graph and status of installed packages.
-- [ZenithDS/rebrands](https://github.com/ZenithDS/rebrands) - The world's most hated IT stickers, continued
+- [DotZenith/rebrands](https://github.com/DotZenith/rebrands) - The world's most hated IT stickers, continued
 - [Chiivo/dotfiles](https://github.com/Chiivo/dotfiles) - A comfy rice loosely based on the "Bliss" keycap colorway by Minterly using some of the "Rainbow" color palette
 - [Yannis4444/Matrix-rEFInd](https://github.com/Yannis4444/Matrix-rEFInd) - A rEFInd theme based on the scene from the movie Matrix where Morpheus offers the two pills to Neo
 - [vaxerski/Hyprland](https://github.com/vaxerski/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
