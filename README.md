@@ -106,8 +106,8 @@
 
 ## Others 
 
-- [janleigh/walls](https://github.com/janleigh/walls) - 🖼️ my own wallpaper repository.
-- [DotZenith/rebrands](https://github.com/DotZenith/rebrands) - The world's most hated IT stickers, continued
+- [janleigh/walls](https://github.com/janleigh/walls) - My personal wallpaper repository.
+- [dotzenith/rebrands](https://github.com/dotzenith/rebrands) - The world's most hated IT stickers, continued
 - [Yannis4444/Matrix-rEFInd](https://github.com/Yannis4444/Matrix-rEFInd) - A rEFInd theme based on the scene from the movie Matrix where Morpheus offers the two pills to Neo
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
@@ -162,7 +162,7 @@
 ## Shell 
 
 - [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
-- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with.
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [thenamesjagger/dotfiles_framework](https://github.com/thenamesjagger/dotfiles_framework) - 
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [josephhand/dotfiles](https://github.com/josephhand/dotfiles) - My personal dotfiles for my Arch Linux laptop
