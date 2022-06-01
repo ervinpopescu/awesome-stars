@@ -100,7 +100,7 @@
 
 ## bash 
 
-- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with.
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [adi1090x/widgets](https://github.com/adi1090x/widgets) - Few widgets for Eww, Elkowar’s Wacky Widgets.
 - [adi1090x/termux-style](https://github.com/adi1090x/termux-style) - Simple script to change color-schemes and fonts for Termux.
 - [augustin64/dotfiles](https://github.com/augustin64/dotfiles) - ~/.dotfiles
@@ -153,7 +153,7 @@
 
 ## docker 
 
-- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with.
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
@@ -204,7 +204,7 @@
 ## linux 
 
 - [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
-- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with.
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
 - [jothi-prasath/SmallSur](https://github.com/jothi-prasath/SmallSur) - Small Sur - clone of big sur. Mac os theme for XFCE
@@ -249,9 +249,9 @@
 
 ## others 
 
-- [janleigh/walls](https://github.com/janleigh/walls) - 🖼️ my own wallpaper repository.
+- [janleigh/walls](https://github.com/janleigh/walls) - My personal wallpaper repository.
 - [Kharacternyk/pacwall](https://github.com/Kharacternyk/pacwall) - A live wallpaper that shows the dependency graph and status of installed packages.
-- [DotZenith/rebrands](https://github.com/DotZenith/rebrands) - The world's most hated IT stickers, continued
+- [dotzenith/rebrands](https://github.com/dotzenith/rebrands) - The world's most hated IT stickers, continued
 - [Chiivo/dotfiles](https://github.com/Chiivo/dotfiles) - A comfy rice loosely based on the "Bliss" keycap colorway by Minterly using some of the "Rainbow" color palette
 - [Yannis4444/Matrix-rEFInd](https://github.com/Yannis4444/Matrix-rEFInd) - A rEFInd theme based on the scene from the movie Matrix where Morpheus offers the two pills to Neo
 - [vaxerski/Hyprland](https://github.com/vaxerski/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
@@ -359,7 +359,7 @@
 
 ## ubuntu 
 
-- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with.
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 
 ## vim 
