@@ -126,7 +126,7 @@
 
 ## config 
 
-- [jx11r/qtile](https://github.com/jx11r/qtile) - My qtile config.
+- [jx11r/qtile](https://github.com/jx11r/qtile) - My qtile configuration.
 
 ## cpp 
 
