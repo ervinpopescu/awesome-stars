@@ -126,7 +126,7 @@
 - [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python
 - [anirudhajith/process-wallpaper](https://github.com/anirudhajith/process-wallpaper) - Shell and python scripts that set the desktop wallpaper to a word cloud of the most resource-hungry processes
 - [caffeine-ng/caffeine-ng](https://github.com/caffeine-ng/caffeine-ng) - ☕ Tray bar application able to temporarily inhibits the screensaver and sleep mode.
-- [jx11r/qtile](https://github.com/jx11r/qtile) - My qtile config.
+- [jx11r/qtile](https://github.com/jx11r/qtile) - My qtile configuration.
 - [casualsnek/cassowary](https://github.com/casualsnek/cassowary) - Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuratio
 - [jbuchermn/newm](https://github.com/jbuchermn/newm) - Wayland compositor
 - [Ethan0456/.config](https://github.com/Ethan0456/.config) - 30/07/2021
