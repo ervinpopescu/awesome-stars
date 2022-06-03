@@ -127,6 +127,7 @@
 ## config 
 
 - [jx11r/qtile](https://github.com/jx11r/qtile) - My qtile configuration.
+- [kyeeego/dotfiles](https://github.com/kyeeego/dotfiles) - My Linux config files
 
 ## cpp 
 
@@ -284,7 +285,6 @@
 - [qtile/qtile-examples](https://github.com/qtile/qtile-examples) - Example configurations and scripts for Qtile
 - [MichalRybecky/dots](https://github.com/MichalRybecky/dots) - 
 - [jblais493/Tranquility](https://github.com/jblais493/Tranquility) - Tranquility Dotfiles for Minimalist Computing
-- [kyeeego/dotfiles](https://github.com/kyeeego/dotfiles) - My Linux config files
 - [AadhiKeerthanan/dotfiles](https://github.com/AadhiKeerthanan/dotfiles) - 
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [thejevans/pt](https://github.com/thejevans/pt) - 
