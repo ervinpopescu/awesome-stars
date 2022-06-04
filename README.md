@@ -35,6 +35,7 @@
 
 ## C 
 
+- [sagb/alttab](https://github.com/sagb/alttab) - The task switcher for minimalistic window managers or standalone X11 session
 - [Kharacternyk/pacwall](https://github.com/Kharacternyk/pacwall) - A live wallpaper that shows the dependency graph and status of installed packages.
 - [xorg62/tty-clock](https://github.com/xorg62/tty-clock) - Clock using lib ncurses
 - [tsoding/la](https://github.com/tsoding/la) - Linear Algebra in C
@@ -54,6 +55,7 @@
 
 ## CSS 
 
+- [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 [WIP] A collection of personal configuration files for various rices I have made.
 - [jothi-prasath/SmallSur](https://github.com/jothi-prasath/SmallSur) - Small Sur - clone of big sur. Mac os theme for XFCE
 - [mehedirm6244/My_XFCE_dotties](https://github.com/mehedirm6244/My_XFCE_dotties) - My shitty dotfiles. It ain't much, but it's honest work
 - [Manas140/paradise](https://github.com/Manas140/paradise) - The Paradise Theme
