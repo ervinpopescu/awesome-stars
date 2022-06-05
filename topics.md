@@ -91,6 +91,7 @@
 
 ## aws 
 
+- [ivanilves/xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
@@ -251,18 +252,15 @@
 
 ## others 
 
+- [smjonas/inc-rename.nvim](https://github.com/smjonas/inc-rename.nvim) - Incremental LSP rename command based on Neovim's command-preview feature.
 - [sagb/alttab](https://github.com/sagb/alttab) - The task switcher for minimalistic window managers or standalone X11 session
 - [janleigh/walls](https://github.com/janleigh/walls) - My personal wallpaper repository.
-- [Kharacternyk/pacwall](https://github.com/Kharacternyk/pacwall) - A live wallpaper that shows the dependency graph and status of installed packages.
 - [dotzenith/rebrands](https://github.com/dotzenith/rebrands) - The world's most hated IT stickers, continued
 - [Chiivo/dotfiles](https://github.com/Chiivo/dotfiles) - A comfy rice loosely based on the "Bliss" keycap colorway by Minterly using some of the "Rainbow" color palette
 - [Yannis4444/Matrix-rEFInd](https://github.com/Yannis4444/Matrix-rEFInd) - A rEFInd theme based on the scene from the movie Matrix where Morpheus offers the two pills to Neo
 - [vaxerski/Hyprland](https://github.com/vaxerski/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [thenamesjagger/dotfiles_framework](https://github.com/thenamesjagger/dotfiles_framework) - 
-- [xorg62/tty-clock](https://github.com/xorg62/tty-clock) - Clock using lib ncurses
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
-- [anirudhajith/process-wallpaper](https://github.com/anirudhajith/process-wallpaper) - Shell and python scripts that set the desktop wallpaper to a word cloud of the most resource-hungry processes
-- [tsoding/la](https://github.com/tsoding/la) - Linear Algebra in C
 - [josephhand/dotfiles](https://github.com/josephhand/dotfiles) - My personal dotfiles for my Arch Linux laptop
 - [o2sh/dotfiles](https://github.com/o2sh/dotfiles) - There is no place like ~ !
 - [zl0rgb/new_tab](https://github.com/zl0rgb/new_tab) - just my custom homepage
@@ -317,20 +315,19 @@
 
 - [coloradocolby/thokr](https://github.com/coloradocolby/thokr) - ✨ sleek typing tui written in rust
 - [adi1090x/widgets](https://github.com/adi1090x/widgets) - Few widgets for Eww, Elkowar’s Wacky Widgets.
-- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [K4rakara/freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch
 
 ## security 
 
+- [ivanilves/xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 ## shell 
 
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
-- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [WitherCubes/dots](https://github.com/WitherCubes/dots) - My personal dotfiles managed with GNU Stow
 - [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
