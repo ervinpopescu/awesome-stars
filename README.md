@@ -147,7 +147,7 @@
 
 ## Rust 
 
-- [coloradocolby/thokr](https://github.com/coloradocolby/thokr) - ✨ sleek typing tui written in rust
+- [coloradocolby/thokr](https://github.com/coloradocolby/thokr) - ✨ sleek typing tui with visualized results and historical logging
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [mdgaziur/findex](https://github.com/mdgaziur/findex) - Highly customizable application finder with high performance. Written in Rust and uses GTK
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -180,7 +180,7 @@
 - [AadhiKeerthanan/dotfiles](https://github.com/AadhiKeerthanan/dotfiles) - 
 - [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 - [schctl/dotfiles](https://github.com/schctl/dotfiles) - My dotfiles and configuration scripts for Arch Linux
-- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
+- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Color Scheme for your Terminal
 
 ## TypeScript 
 
