@@ -147,7 +147,7 @@
 
 ## Rust 
 
-- [coloradocolby/thokr](https://github.com/coloradocolby/thokr) - ✨ sleek typing tui with visualized results and historical logging
+- [thatvegandev/thokr](https://github.com/thatvegandev/thokr) - ✨ sleek typing tui with visualized results and historical logging
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [mdgaziur/findex](https://github.com/mdgaziur/findex) - Highly customizable application finder with high performance. Written in Rust and uses GTK
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
