@@ -116,7 +116,7 @@
 
 ## cli 
 
-- [coloradocolby/thokr](https://github.com/coloradocolby/thokr) - ✨ sleek typing tui with visualized results and historical logging
+- [thatvegandev/thokr](https://github.com/thatvegandev/thokr) - ✨ sleek typing tui with visualized results and historical logging
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
@@ -314,7 +314,7 @@
 
 ## rust 
 
-- [coloradocolby/thokr](https://github.com/coloradocolby/thokr) - ✨ sleek typing tui with visualized results and historical logging
+- [thatvegandev/thokr](https://github.com/thatvegandev/thokr) - ✨ sleek typing tui with visualized results and historical logging
 - [adi1090x/widgets](https://github.com/adi1090x/widgets) - Few widgets for Eww, Elkowar’s Wacky Widgets.
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -345,7 +345,7 @@
 ## terminal 
 
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
-- [coloradocolby/thokr](https://github.com/coloradocolby/thokr) - ✨ sleek typing tui with visualized results and historical logging
+- [thatvegandev/thokr](https://github.com/thatvegandev/thokr) - ✨ sleek typing tui with visualized results and historical logging
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [undiabler/nord-rofi-theme](https://github.com/undiabler/nord-rofi-theme) - An arctic, north-bluish clean and elegant rofi color theme.
 - [adi1090x/termux-style](https://github.com/adi1090x/termux-style) - Simple script to change color-schemes and fonts for Termux.
