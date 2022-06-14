@@ -55,7 +55,6 @@
 - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 [WIP] A collection of personal configuration files for various rices I have made.
 - [jothi-prasath/SmallSur](https://github.com/jothi-prasath/SmallSur) - Small Sur - clone of big sur. Mac os theme for XFCE
 - [mehedirm6244/My_XFCE_dotties](https://github.com/mehedirm6244/My_XFCE_dotties) - My shitty dotfiles. It ain't much, but it's honest work
-- [Manas140/paradise](https://github.com/Manas140/paradise) - The Paradise Theme
 - [kyeeego/dotfiles](https://github.com/kyeeego/dotfiles) - My Linux config files
 
 ## Emacs Lisp 
@@ -103,6 +102,7 @@
 - [Kasper24/KwesomeDE](https://github.com/Kasper24/KwesomeDE) - A desktop environment made in AwesomeWM
 - [smjonas/inc-rename.nvim](https://github.com/smjonas/inc-rename.nvim) - Incremental LSP rename command based on Neovim's command-preview feature.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms
+- [paradise-theme/paradise](https://github.com/paradise-theme/paradise) - The Paradise Theme
 - [WitherCubes/dots](https://github.com/WitherCubes/dots) - My personal dotfiles managed with GNU Stow
 
 ## Others 
