@@ -270,7 +270,7 @@
 - [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
 - [jbuchermn/newm](https://github.com/jbuchermn/newm) - Wayland compositor
 - [Ethan0456/.config](https://github.com/Ethan0456/.config) - 30/07/2021
-- [Manas140/paradise](https://github.com/Manas140/paradise) - The Paradise Theme
+- [paradise-theme/paradise](https://github.com/paradise-theme/paradise) - The Paradise Theme
 - [ericmurphyxyz/rofi-wifi-menu](https://github.com/ericmurphyxyz/rofi-wifi-menu) - A bash script using nmcli and rofi to make a wifi menu for your favorite window manager
 - [vaxerski/Hypr](https://github.com/vaxerski/Hypr) - Hypr is a tiling window manager written in modern C++.
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
