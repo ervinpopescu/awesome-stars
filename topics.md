@@ -260,7 +260,7 @@
 - [dotzenith/rebrands](https://github.com/dotzenith/rebrands) - The world's most hated IT stickers, continued
 - [Chiivo/dotfiles](https://github.com/Chiivo/dotfiles) - A comfy rice loosely based on the "Bliss" keycap colorway by Minterly using some of the "Rainbow" color palette
 - [Yannis4444/Matrix-rEFInd](https://github.com/Yannis4444/Matrix-rEFInd) - A rEFInd theme based on the scene from the movie Matrix where Morpheus offers the two pills to Neo
-- [vaxerski/Hyprland](https://github.com/vaxerski/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [thenamesjagger/dotfiles_framework](https://github.com/thenamesjagger/dotfiles_framework) - 
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [josephhand/dotfiles](https://github.com/josephhand/dotfiles) - My personal dotfiles for my Arch Linux laptop
@@ -273,7 +273,7 @@
 - [Ethan0456/.config](https://github.com/Ethan0456/.config) - 30/07/2021
 - [paradise-theme/paradise](https://github.com/paradise-theme/paradise) - The Paradise Theme
 - [ericmurphyxyz/rofi-wifi-menu](https://github.com/ericmurphyxyz/rofi-wifi-menu) - A bash script using nmcli and rofi to make a wifi menu for your favorite window manager
-- [vaxerski/Hypr](https://github.com/vaxerski/Hypr) - Hypr is a tiling window manager written in modern C++.
+- [hyprwm/Hypr](https://github.com/hyprwm/Hypr) - Hypr is a tiling window manager written in modern C++.
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [linuxhw/hw-probe](https://github.com/linuxhw/hw-probe) - Probe for hardware, check operability and find drivers
 - [bakkeby/st-flexipatch](https://github.com/bakkeby/st-flexipatch) - An st build with preprocessor directives to decide which patches to include during build time
