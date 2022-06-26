@@ -187,7 +187,6 @@
 
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Opensource, compact, and material-designed cursor set.
-- [aynp/dracula-wallpapers](https://github.com/aynp/dracula-wallpapers) - Wallpapers based on the Dracula Theme
 - [Schrodinger-Hat/ImageGoNord](https://github.com/Schrodinger-Hat/ImageGoNord) - A tool that can convert your rgb images to nordtheme palette
 
 ## image-processing 
@@ -253,6 +252,7 @@
 
 ## others 
 
+- [CallMeEchoCodes/dotfiles](https://github.com/CallMeEchoCodes/dotfiles) - There's no place like ~
 - [fusionhuh/deskimg](https://github.com/fusionhuh/deskimg) - program that displays graphics on Linux desktop.
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [Kasper24/KwesomeDE](https://github.com/Kasper24/KwesomeDE) - A desktop environment made in AwesomeWM
@@ -294,6 +294,7 @@
 - [thejevans/pt](https://github.com/thejevans/pt) - 
 - [nivekuil/rip](https://github.com/nivekuil/rip) - A safe and ergonomic alternative to rm
 - [blixabloxa/dotfiles](https://github.com/blixabloxa/dotfiles) - 
+- [aynp/dracula-wallpapers](https://github.com/aynp/dracula-wallpapers) - Wallpapers based on the Dracula Theme
 - [schctl/dotfiles](https://github.com/schctl/dotfiles) - My dotfiles and configuration scripts for Arch Linux
 - [tomaspinho/rtl8821ce](https://github.com/tomaspinho/rtl8821ce) - 
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
