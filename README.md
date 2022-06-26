@@ -100,6 +100,7 @@
 
 ## Lua 
 
+- [CallMeEchoCodes/dotfiles](https://github.com/CallMeEchoCodes/dotfiles) - There's no place like ~
 - [Kasper24/KwesomeDE](https://github.com/Kasper24/KwesomeDE) - A desktop environment made in AwesomeWM
 - [smjonas/inc-rename.nvim](https://github.com/smjonas/inc-rename.nvim) - Incremental LSP rename command based on Neovim's command-preview feature.
 - [Chiivo/dotfiles](https://github.com/Chiivo/dotfiles) - A comfy rice loosely based on the "Bliss" keycap colorway by Minterly using some of the "Rainbow" color palette
