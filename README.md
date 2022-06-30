@@ -31,7 +31,7 @@
 
 ## AutoIt 
 
-- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready
+- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!
 
 ## C 
 
@@ -53,7 +53,6 @@
 
 ## CSS 
 
-- [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 [WIP] A collection of personal configuration files for various rices I have made.
 - [jothi-prasath/SmallSur](https://github.com/jothi-prasath/SmallSur) - Small Sur - clone of big sur. Mac os theme for XFCE
 - [mehedirm6244/My_XFCE_dotties](https://github.com/mehedirm6244/My_XFCE_dotties) - My shitty dotfiles. It ain't much, but it's honest work
 - [kyeeego/dotfiles](https://github.com/kyeeego/dotfiles) - My Linux config files
@@ -128,7 +127,7 @@
 ## Python 
 
 - [erpalma/throttled](https://github.com/erpalma/throttled) - Workaround for Intel throttling issues in Linux.
-- [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python
+- [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)
 - [caffeine-ng/caffeine-ng](https://github.com/caffeine-ng/caffeine-ng) - ☕ Tray bar application able to temporarily inhibits the screensaver and sleep mode.
 - [jx11r/qtile](https://github.com/jx11r/qtile) - My qtile configuration.
 - [casualsnek/cassowary](https://github.com/casualsnek/cassowary) - Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuratio
@@ -165,6 +164,7 @@
 ## Shell 
 
 - [ivanilves/xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
+- [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
 - [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [thenamesjagger/dotfiles_framework](https://github.com/thenamesjagger/dotfiles_framework) - 
