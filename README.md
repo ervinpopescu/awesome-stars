@@ -105,7 +105,6 @@
 - [Chiivo/dotfiles](https://github.com/Chiivo/dotfiles) - A comfy rice loosely based on the "Bliss" keycap colorway by Minterly using some of the "Rainbow" color palette
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms
 - [paradise-theme/paradise](https://github.com/paradise-theme/paradise) - The Paradise Theme
-- [WitherCubes/dots](https://github.com/WitherCubes/dots) - My personal dotfiles managed with GNU Stow
 
 ## Others 
 
@@ -179,6 +178,7 @@
 - [Marty1820/dotfiles](https://github.com/Marty1820/dotfiles) - Marty's config file backups
 - [ericmurphyxyz/rofi-wifi-menu](https://github.com/ericmurphyxyz/rofi-wifi-menu) - A bash script using nmcli and rofi to make a wifi menu for your favorite window manager
 - [augustin64/dotfiles](https://github.com/augustin64/dotfiles) - ~/.dotfiles
+- [WitherCubes/dots](https://github.com/WitherCubes/dots) - My personal dotfiles managed with GNU Stow
 - [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [jblais493/Tranquility](https://github.com/jblais493/Tranquility) - Tranquility Dotfiles for Minimalist Computing
 - [AadhiKeerthanan/dotfiles](https://github.com/AadhiKeerthanan/dotfiles) - 
