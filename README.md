@@ -178,7 +178,6 @@
 - [Marty1820/dotfiles](https://github.com/Marty1820/dotfiles) - Marty's config file backups
 - [ericmurphyxyz/rofi-wifi-menu](https://github.com/ericmurphyxyz/rofi-wifi-menu) - A bash script using nmcli and rofi to make a wifi menu for your favorite window manager
 - [augustin64/dotfiles](https://github.com/augustin64/dotfiles) - ~/.dotfiles
-- [WitherCubes/dots](https://github.com/WitherCubes/dots) - My personal dotfiles managed with GNU Stow
 - [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [jblais493/Tranquility](https://github.com/jblais493/Tranquility) - Tranquility Dotfiles for Minimalist Computing
 - [AadhiKeerthanan/dotfiles](https://github.com/AadhiKeerthanan/dotfiles) - 
