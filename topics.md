@@ -249,6 +249,7 @@
 
 ## others 
 
+- [natpen/awesome-wayland](https://github.com/natpen/awesome-wayland) - A curated list of Wayland code and resources.
 - [CallMeEchoCodes/dotfiles](https://github.com/CallMeEchoCodes/dotfiles) - There's no place like ~
 - [fusionhuh/deskimg](https://github.com/fusionhuh/deskimg) - program that displays graphics on Linux desktop.
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
