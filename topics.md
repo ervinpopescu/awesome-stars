@@ -212,7 +212,7 @@
 - [caffeine-ng/caffeine-ng](https://github.com/caffeine-ng/caffeine-ng) - ☕ Tray bar application able to temporarily inhibits the screensaver and sleep mode.
 - [adi1090x/widgets](https://github.com/adi1090x/widgets) - Few widgets for Eww, Elkowar’s Wacky Widgets.
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
-- [mehedirm6244/My_XFCE_dotties](https://github.com/mehedirm6244/My_XFCE_dotties) - My shitty dotfiles. It ain't much, but it's honest work
+- [mehedirm6244/My_XFCE_dotties](https://github.com/mehedirm6244/My_XFCE_dotties) - My shitty dotfiles for Xfce
 - [casualsnek/cassowary](https://github.com/casualsnek/cassowary) - Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuratio
 - [Marty1820/dotfiles](https://github.com/Marty1820/dotfiles) - Marty's config file backups
 - [st3w/neo](https://github.com/st3w/neo) - Simulates the digital rain from "The Matrix" (CMatrix clone with 32-bit color and Unicode support)
@@ -270,7 +270,6 @@
 - [nautilor/nord-eww](https://github.com/nautilor/nord-eww) - my custom eww theme
 - [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
 - [jbuchermn/newm](https://github.com/jbuchermn/newm) - Wayland compositor
-- [Ethan0456/.config](https://github.com/Ethan0456/.config) - 30/07/2021
 - [paradise-theme/paradise](https://github.com/paradise-theme/paradise) - The Paradise Theme
 - [ericmurphyxyz/rofi-wifi-menu](https://github.com/ericmurphyxyz/rofi-wifi-menu) - A bash script using nmcli and rofi to make a wifi menu for your favorite window manager
 - [hyprwm/Hypr](https://github.com/hyprwm/Hypr) - Hypr is a tiling window manager written in modern C++.
