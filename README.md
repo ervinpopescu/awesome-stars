@@ -54,7 +54,7 @@
 ## CSS 
 
 - [jothi-prasath/SmallSur](https://github.com/jothi-prasath/SmallSur) - Small Sur - clone of big sur. Mac os theme for XFCE
-- [mehedirm6244/My_XFCE_dotties](https://github.com/mehedirm6244/My_XFCE_dotties) - My shitty dotfiles. It ain't much, but it's honest work
+- [mehedirm6244/My_XFCE_dotties](https://github.com/mehedirm6244/My_XFCE_dotties) - My shitty dotfiles for Xfce
 - [kyeeego/dotfiles](https://github.com/kyeeego/dotfiles) - My Linux config files
 
 ## Emacs Lisp 
@@ -132,7 +132,6 @@
 - [jx11r/qtile](https://github.com/jx11r/qtile) - My qtile configuration.
 - [casualsnek/cassowary](https://github.com/casualsnek/cassowary) - Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuratio
 - [jbuchermn/newm](https://github.com/jbuchermn/newm) - Wayland compositor
-- [Ethan0456/.config](https://github.com/Ethan0456/.config) - 30/07/2021
 - [NimbleClint/ShaiHulud](https://github.com/NimbleClint/ShaiHulud) - A qtile desktop configuration for the (spice) masses
 - [biscuitrescue/qtile-gentoo](https://github.com/biscuitrescue/qtile-gentoo) - 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
