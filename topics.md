@@ -239,6 +239,7 @@
 
 ## neovim 
 
+- [smjonas/inc-rename.nvim](https://github.com/smjonas/inc-rename.nvim) - Incremental LSP renaming based on Neovim's command-preview feature.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms
 - [antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles) - My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.
 - [lokesh-krishna/dotfiles](https://github.com/lokesh-krishna/dotfiles) - My dotfiles
@@ -249,12 +250,12 @@
 
 ## others 
 
+- [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
 - [natpen/awesome-wayland](https://github.com/natpen/awesome-wayland) - A curated list of Wayland code and resources.
 - [CallMeEchoCodes/dotfiles](https://github.com/CallMeEchoCodes/dotfiles) - There's no place like ~
 - [fusionhuh/deskimg](https://github.com/fusionhuh/deskimg) - program that displays graphics on Linux desktop.
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [Kasper24/KwesomeDE](https://github.com/Kasper24/KwesomeDE) - A desktop environment made in AwesomeWM
-- [smjonas/inc-rename.nvim](https://github.com/smjonas/inc-rename.nvim) - Incremental LSP renaming based on Neovim's command-preview feature.
 - [sagb/alttab](https://github.com/sagb/alttab) - The task switcher for minimalistic window managers or standalone X11 session
 - [janleigh/walls](https://github.com/janleigh/walls) - My personal wallpaper repository.
 - [dotzenith/rebrands](https://github.com/dotzenith/rebrands) - The world's most hated IT stickers, continued
