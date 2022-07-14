@@ -83,6 +83,7 @@
 
 ## JavaScript 
 
+- [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
 - [CallMeEchoCodes/dotfiles](https://github.com/CallMeEchoCodes/dotfiles) - There's no place like ~
 - [RaphaelRochet/arch-update](https://github.com/RaphaelRochet/arch-update) - Update indicator for ArchLinux and Gnome-Shell
 
