@@ -168,7 +168,7 @@
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
 - [geopy/geopy](https://github.com/geopy/geopy) - Geocoding library for Python.
 - [pytransitions/transitions](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation in Python with many extensions
-- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [CodedotAl/gpt-code-clippy](https://github.com/CodedotAl/gpt-code-clippy) - Full description can be found here: https://discuss.huggingface.co/t/pretrain-gpt-neo-for-open-source-github-copilot-model/7678?u=ncoop57
 - [pawamoy/markdown-exec](https://github.com/pawamoy/markdown-exec) - Utilities to execute code blocks in Markdown files.
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
@@ -228,7 +228,7 @@
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [sigoden/argc](https://github.com/sigoden/argc) - Easily create feature-rich CLIs in bash.
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [dinkelspiel/chess](https://github.com/dinkelspiel/chess) - a simple chess game to play locally on a tablet or with a mouse
 - [mitsuhiko/teetty](https://github.com/mitsuhiko/teetty) - A bit like tee, a bit like script, but all with a fake tty. Lets you remote control and watch a process
@@ -269,7 +269,7 @@
 - [Marty1820/dotfiles](https://github.com/Marty1820/dotfiles) - Marty's config file backups
 - [augustin64/dotfiles](https://github.com/augustin64/dotfiles) - ~/.dotfiles
 - [jblais493/Tranquility](https://github.com/jblais493/Tranquility) - Tranquility Dotfiles for Minimalist Computing
-- [schctl/dotfiles](https://github.com/schctl/dotfiles) - My dotfiles and configuration scripts for Arch Linux
+- [schctl/dotfiles](https://github.com/schctl/dotfiles) - My dotfiles and configuration scripts for i3
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 
 ## Svelte 
