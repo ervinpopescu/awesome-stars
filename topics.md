@@ -31,6 +31,7 @@
 - [devops](#devops)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dotfiles](#dotfiles)
 - [education](#education)
 - [electron](#electron)
 - [emacs](#emacs)
@@ -54,6 +55,7 @@
 - [kubernetes](#kubernetes)
 - [library](#library)
 - [linux](#linux)
+- [llm](#llm)
 - [low-code](#low-code)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -261,6 +263,21 @@
 
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 
+## dotfiles 
+
+- [Barbaross93/Nebula](https://github.com/Barbaross93/Nebula) - Desktop setup
+- [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir) - My zsh config
+- [flick0/dotfiles](https://github.com/flick0/dotfiles) - dotfiles go brrr
+- [Ruturajn/Dotfiles](https://github.com/Ruturajn/Dotfiles) - My Config Files for starship, qtile, rofi, fish, etc. and a few bash scripts for installing Arch and setting up the dotfiles on Arch and Ubuntu.
+- [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
+- [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
+- [antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles) - My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.
+- [lokesh-krishna/dotfiles](https://github.com/lokesh-krishna/dotfiles) - My dotfiles
+- [Marty1820/old-dotfiles](https://github.com/Marty1820/old-dotfiles) - Marty's config file backups
+- [augustin64/dotfiles](https://github.com/augustin64/dotfiles) - ~/.dotfiles
+- [kyeeego/dotfiles](https://github.com/kyeeego/dotfiles) - My Linux config files
+- [schctl/dotfiles](https://github.com/schctl/dotfiles) - My dotfiles and configuration scripts for i3
+
 ## education 
 
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -406,7 +423,7 @@
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
 - [WhyNotHugo/caffeine-ng](https://github.com/WhyNotHugo/caffeine-ng) - ⚠ This project has migrated to codeberg.org
 - [casualsnek/cassowary](https://github.com/casualsnek/cassowary) - Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuratio
-- [Marty1820/dotfiles](https://github.com/Marty1820/dotfiles) - Marty's config file backups
+- [Marty1820/old-dotfiles](https://github.com/Marty1820/old-dotfiles) - Marty's config file backups
 - [st3w/neo](https://github.com/st3w/neo) - Simulates the digital rain from "The Matrix" (CMatrix clone with 32-bit color and Unicode support)
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -414,6 +431,10 @@
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+
+## llm 
+
+- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 
 ## low-code 
 
@@ -498,7 +519,6 @@
 - [CodedotAl/gpt-code-clippy](https://github.com/CodedotAl/gpt-code-clippy) - Full description can be found here: https://discuss.huggingface.co/t/pretrain-gpt-neo-for-open-source-github-copilot-model/7678?u=ncoop57
 - [CodedotAl/code-clippy-vscode](https://github.com/CodedotAl/code-clippy-vscode) - VSCode extension for code suggestion
 - [G-dH/vertical-workspaces](https://github.com/G-dH/vertical-workspaces) - V-Shell is a GNOME Shell extension that allows you to customize the layout and behavior of the Shell UI.
-- [Barbaross93/Nebula](https://github.com/Barbaross93/Nebula) - Desktop setup
 - [whoiskatrin/chart-gpt](https://github.com/whoiskatrin/chart-gpt) - AI tool to build charts based on text input
 - [jafarlihi/connmap](https://github.com/jafarlihi/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map
 - [ikz87/picom-shaders](https://github.com/ikz87/picom-shaders) - glsl window shaders for picom
@@ -546,7 +566,6 @@
 - [jblais493/Tranquility](https://github.com/jblais493/Tranquility) - Tranquility Dotfiles for Minimalist Computing
 - [nivekuil/rip](https://github.com/nivekuil/rip) - A safe and ergonomic alternative to rm
 - [blixabloxa/dotfiles](https://github.com/blixabloxa/dotfiles) - 
-- [schctl/dotfiles](https://github.com/schctl/dotfiles) - My dotfiles and configuration scripts for i3
 - [tomaspinho/rtl8821ce](https://github.com/tomaspinho/rtl8821ce) - 
 - [daniel-seiler/ImageTheming](https://github.com/daniel-seiler/ImageTheming) - Match a wallpaper to your color scheme
 
