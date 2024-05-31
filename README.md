@@ -18,7 +18,7 @@
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
-- [Objective-C](#objective-c)
+- [Objective-C++](#objective-c++)
 - [Others](#others)
 - [Perl](#perl)
 - [Python](#python)
@@ -123,7 +123,7 @@
 - [nullbyto/dotfiles](https://github.com/nullbyto/dotfiles) - 🏠 It's nice to be ~/
 - [chiivo/nixos-dotfiles](https://github.com/chiivo/nixos-dotfiles) - A comfy rice loosely based on the "Bliss" keycap colorway by Minterly using some of the "Rainbow" color palette
 
-## Objective-C 
+## Objective-C++ 
 
 - [google/santa](https://github.com/google/santa) - A binary authorization and monitoring system for macOS
 
@@ -211,7 +211,6 @@
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [alemidev/scope-tui](https://github.com/alemidev/scope-tui) - a simple oscilloscope/vectorscope/spectroscope for your terminal
-- [rosslh/mandelbrot.site](https://github.com/rosslh/mandelbrot.site) - A web app that lets you explore the Mandelbrot set fractal. Built with Rust (compiled to WASM) and TypeScript.
 - [prefix-dev/rip](https://github.com/prefix-dev/rip) - Solve and install Python packages quickly with rip (pip in Rust)
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [hsaikia/Advent-of-Code](https://github.com/hsaikia/Advent-of-Code) - Solutions to Advent of Code problems
@@ -266,7 +265,7 @@
 - [o2sh/dotfiles](https://github.com/o2sh/dotfiles) - There is no place like ~ !
 - [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
-- [Marty1820/dotfiles](https://github.com/Marty1820/dotfiles) - Marty's config file backups
+- [Marty1820/old-dotfiles](https://github.com/Marty1820/old-dotfiles) - Marty's config file backups
 - [augustin64/dotfiles](https://github.com/augustin64/dotfiles) - ~/.dotfiles
 - [jblais493/Tranquility](https://github.com/jblais493/Tranquility) - Tranquility Dotfiles for Minimalist Computing
 - [schctl/dotfiles](https://github.com/schctl/dotfiles) - My dotfiles and configuration scripts for i3
@@ -278,6 +277,7 @@
 
 ## TypeScript 
 
+- [rosslh/mandelbrot.site](https://github.com/rosslh/mandelbrot.site) - A web app that lets you explore the Mandelbrot set fractal. Built with Rust (compiled to WASM) and TypeScript.
 - [marduc812/vscode-nmap-peek](https://github.com/marduc812/vscode-nmap-peek) - A VS Code extension to preview XML nmap output
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🥧 The Cross-Platform Pie Menu.
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
