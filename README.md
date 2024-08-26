@@ -26,6 +26,7 @@
 - [Sass](#sass)
 - [Scala](#scala)
 - [Shell](#shell)
+- [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
@@ -60,6 +61,7 @@
 ## CSS 
 
 - [MathisP75/Hyprland-Witcher](https://github.com/MathisP75/Hyprland-Witcher) - 
+- [mitsuhiko/teetty](https://github.com/mitsuhiko/teetty) - A bit like tee, a bit like script, but all with a fake tty. Lets you remote control and watch a process
 - [kyeeego/dotfiles](https://github.com/kyeeego/dotfiles) - My Linux config files
 
 ## Emacs Lisp 
@@ -93,7 +95,7 @@
 
 ## HTML 
 
-- [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - 💻🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
+- [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - 🖧🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [orf/html-query](https://github.com/orf/html-query) - jq, but for HTML
 - [zl0rgb/new_tab](https://github.com/zl0rgb/new_tab) - just my custom homepage
@@ -160,7 +162,7 @@
 - [zqqqqz2000/shshsh](https://github.com/zqqqqz2000/shshsh) - a bridge between python and shell
 - [beeper/linkedin-messaging-api](https://github.com/beeper/linkedin-messaging-api) - DEPRECATED: moved to https://github.com/beeper/linkedin
 - [neithere/argh](https://github.com/neithere/argh) - An argparse wrapper that doesn't make you say "argh" each time you deal with it.
-- [tomquirk/linkedin-api](https://github.com/tomquirk/linkedin-api) - 👨‍💼Linkedin API for Python
+- [tomquirk/linkedin-api](https://github.com/tomquirk/linkedin-api) - 👨‍💼 LinkedIn API for Python (2024)
 - [delphiki/AirStatus](https://github.com/delphiki/AirStatus) - Check AirPods battery levels on Linux
 - [kubereboot/website](https://github.com/kubereboot/website) - Website for the kured project
 - [clotodex/qtile-install-script](https://github.com/clotodex/qtile-install-script) - A suite to install qtile with all dependencies correctly (used for personal debugging and issue reporting)
@@ -236,7 +238,6 @@
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [dinkelspiel/chess](https://github.com/dinkelspiel/chess) - a simple chess game to play locally on a tablet or with a mouse
-- [mitsuhiko/teetty](https://github.com/mitsuhiko/teetty) - A bit like tee, a bit like script, but all with a fake tty. Lets you remote control and watch a process
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [nik012003/ripdrag](https://github.com/nik012003/ripdrag) - Drag and Drop utilty written in Rust and GTK4
@@ -276,6 +277,10 @@
 - [jblais493/Tranquility](https://github.com/jblais493/Tranquility) - Tranquility Dotfiles for Minimalist Computing
 - [schctl/dotfiles](https://github.com/schctl/dotfiles) - My dotfiles and configuration scripts for i3
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
+
+## Swift 
+
+- [whoeevee/EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) - A tweak to get Spotify Premium for free, just like Spotilife
 
 ## TypeScript 
 
