@@ -502,6 +502,7 @@
 
 ## others 
 
+- [drj11/xwd2png](https://github.com/drj11/xwd2png) - Convert output of xwd to PNG
 - [whoeevee/EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) - A tweak to get Spotify Premium for free, just like Spotilife
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
