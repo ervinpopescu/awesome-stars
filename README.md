@@ -157,6 +157,7 @@
 
 ## Python 
 
+- [drj11/xwd2png](https://github.com/drj11/xwd2png) - Convert output of xwd to PNG
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [geophile/marcel](https://github.com/geophile/marcel) - A modern shell
 - [zqqqqz2000/shshsh](https://github.com/zqqqqz2000/shshsh) - a bridge between python and shell
@@ -219,6 +220,7 @@
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [alemidev/scope-tui](https://github.com/alemidev/scope-tui) - a simple oscilloscope/vectorscope/spectroscope for your terminal
+- [rosslh/Mandelbrot.site](https://github.com/rosslh/Mandelbrot.site) - ✨ A web app that lets you explore the Mandelbrot set fractal. Built with Rust (compiled to Wasm) and TypeScript.
 - [prefix-dev/rip](https://github.com/prefix-dev/rip) - Solve and install Python packages quickly with rip (pip in Rust)
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [hsaikia/Advent-of-Code](https://github.com/hsaikia/Advent-of-Code) - Solutions to Advent of Code problems
@@ -284,7 +286,6 @@
 
 ## TypeScript 
 
-- [rosslh/Mandelbrot.site](https://github.com/rosslh/Mandelbrot.site) - ✨ A web app that lets you explore the Mandelbrot set fractal. Built with Rust (compiled to Wasm) and TypeScript.
 - [marduc812/vscode-nmap-peek](https://github.com/marduc812/vscode-nmap-peek) - A VS Code extension to preview XML nmap output
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🥧 The Cross-Platform Pie Menu.
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
