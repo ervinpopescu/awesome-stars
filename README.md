@@ -8,6 +8,7 @@
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
+- [Dockerfile](#dockerfile)
 - [Emacs Lisp](#emacs-lisp)
 - [GDScript](#gdscript)
 - [GLSL](#glsl)
@@ -64,6 +65,11 @@
 - [mitsuhiko/teetty](https://github.com/mitsuhiko/teetty) - A bit like tee, a bit like script, but all with a fake tty. Lets you remote control and watch a process
 - [kyeeego/dotfiles](https://github.com/kyeeego/dotfiles) - My Linux config files
 
+## Dockerfile 
+
+- [actions-runner-controller/runner-images](https://github.com/actions-runner-controller/runner-images) - 
+- [beikeni/github-runner-dockerfile](https://github.com/beikeni/github-runner-dockerfile) - Dockerfile for the creation of a GitHub Actions runner image to be deployed dynamically
+
 ## Emacs Lisp 
 
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
@@ -96,7 +102,7 @@
 ## HTML 
 
 - [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - 🖧🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [orf/html-query](https://github.com/orf/html-query) - jq, but for HTML
 - [zl0rgb/new_tab](https://github.com/zl0rgb/new_tab) - just my custom homepage
 - [lokesh-krishna/dotfiles](https://github.com/lokesh-krishna/dotfiles) - My dotfiles
@@ -166,6 +172,7 @@
 - [tomquirk/linkedin-api](https://github.com/tomquirk/linkedin-api) - 👨‍💼 LinkedIn API for Python
 - [delphiki/AirStatus](https://github.com/delphiki/AirStatus) - Check AirPods battery levels on Linux
 - [kubereboot/website](https://github.com/kubereboot/website) - Website for the kured project
+- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [clotodex/qtile-install-script](https://github.com/clotodex/qtile-install-script) - A suite to install qtile with all dependencies correctly (used for personal debugging and issue reporting)
 - [jsh9/pydoclint](https://github.com/jsh9/pydoclint) - A Python docstring linter that checks arguments, returns, yields, and raises sections
 - [annotated-types/annotated-types](https://github.com/annotated-types/annotated-types) - Reusable constraint types to use with typing.Annotated
@@ -220,7 +227,7 @@
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [alemidev/scope-tui](https://github.com/alemidev/scope-tui) - a simple oscilloscope/vectorscope/spectroscope for your terminal
-- [rosslh/Mandelbrot.site](https://github.com/rosslh/Mandelbrot.site) - ✨ A web app that lets you explore the Mandelbrot set fractal. Built with Rust (compiled to Wasm) and TypeScript.
+- [rosslh/Mandelbrot.site](https://github.com/rosslh/Mandelbrot.site) - Explore the Mandelbrot set fractal in your browser. Built with Rust, Wasm, and TypeScript.
 - [prefix-dev/rip](https://github.com/prefix-dev/rip) - Solve and install Python packages quickly with rip (pip in Rust)
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [hsaikia/Advent-of-Code](https://github.com/hsaikia/Advent-of-Code) - Solutions to Advent of Code problems
@@ -257,6 +264,7 @@
 
 ## Shell 
 
+- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker
 - [MunifTanjim/tmux-suspend](https://github.com/MunifTanjim/tmux-suspend) - Plugin that lets you suspend local tmux session, so that you can work with nested remote tmux session painlessly.
 - [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
 - [Barbaross93/Nebula](https://github.com/Barbaross93/Nebula) - Desktop setup
@@ -288,7 +296,6 @@
 
 - [marduc812/vscode-nmap-peek](https://github.com/marduc812/vscode-nmap-peek) - A VS Code extension to preview XML nmap output
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🥧 The Cross-Platform Pie Menu.
-- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
 - [whoiskatrin/chart-gpt](https://github.com/whoiskatrin/chart-gpt) - AI tool to build charts based on text input
