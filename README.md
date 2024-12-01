@@ -34,6 +34,7 @@
 
 ## C 
 
+- [hanslub42/rlwrap](https://github.com/hanslub42/rlwrap) - A readline wrapper
 - [fdev31/picom](https://github.com/fdev31/picom) - FTLabs fork patched to work on Qtile
 - [zevv/bucklespring](https://github.com/zevv/bucklespring) - Nostalgia bucklespring keyboard sound
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
@@ -48,6 +49,7 @@
 
 ## C++ 
 
+- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
@@ -101,7 +103,7 @@
 
 ## HTML 
 
-- [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - 🖧🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [orf/html-query](https://github.com/orf/html-query) - jq, but for HTML
 - [zl0rgb/new_tab](https://github.com/zl0rgb/new_tab) - just my custom homepage
@@ -141,7 +143,6 @@
 - [node-dojo/dojo-recursive-bins](https://github.com/node-dojo/dojo-recursive-bins) - 3d printable bin generator using blender geometry nodes
 - [portal-pias/specificatii](https://github.com/portal-pias/specificatii) - Specificaţii de intefaţare cu CNAS - PIAS
 - [SpotCompiled/SpotC-Plus-Plus](https://github.com/SpotCompiled/SpotC-Plus-Plus) - Compiled EeveeSpotify + QOL Enhancements IPA's, the ultimate compilement.
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -164,6 +165,7 @@
 ## Python 
 
 - [drj11/xwd2png](https://github.com/drj11/xwd2png) - Convert output of xwd to PNG
+- [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - 🖧🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [geophile/marcel](https://github.com/geophile/marcel) - A modern shell
 - [zqqqqz2000/shshsh](https://github.com/zqqqqz2000/shshsh) - a bridge between python and shell
@@ -201,7 +203,7 @@
 - [mikepqr/resume.md](https://github.com/mikepqr/resume.md) - Write your resume in Markdown, style it with CSS, output to HTML and PDF
 - [antoniosarosi/pycritty](https://github.com/antoniosarosi/pycritty) - CLI program that allows you to change your Alacritty config with one command without editing the config file.
 - [elParaguayo/qtile-extras](https://github.com/elParaguayo/qtile-extras) - Somewhere to store things I create for qtile that probably won't end up in the official repo
-- [elisemercury/Duplicate-Image-Finder](https://github.com/elisemercury/Duplicate-Image-Finder) - difPy - Python package for finding duplicate or similar images within folders
+- [elisemercury/Duplicate-Image-Finder](https://github.com/elisemercury/Duplicate-Image-Finder) - difPy - Python package for finding duplicate and similar images
 - [dynobo/normcap](https://github.com/dynobo/normcap) - OCR powered screen-capture tool to capture information instead of images
 - [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)
 - [WhyNotHugo/caffeine-ng](https://github.com/WhyNotHugo/caffeine-ng) - ⚠ This project has migrated to codeberg.org
