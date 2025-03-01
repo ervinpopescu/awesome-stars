@@ -51,6 +51,7 @@
 
 ## C++ 
 
+- [dawsers/hyprscroller](https://github.com/dawsers/hyprscroller) - Hyprland layout plugin providing a scrolling layout like PaperWM
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
@@ -137,6 +138,7 @@
 
 ## Lua 
 
+- [mogenson/PaperWM.spoon](https://github.com/mogenson/PaperWM.spoon) - Tiled scrollable window manager for MacOS
 - [anantnrg/hyprland_rose_pine](https://github.com/anantnrg/hyprland_rose_pine) - Rosé Pine and Hyprland
 - [nullbyto/dotfiles](https://github.com/nullbyto/dotfiles) - 🏠 It's nice to be ~/
 - [chiivo/nixos-dotfiles](https://github.com/chiivo/nixos-dotfiles) - A comfy rice loosely based on the "Bliss" keycap colorway by Minterly using some of the "Rainbow" color palette
