@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [ai](#ai)
 - [algorithm](#algorithm)
 - [android](#android)
 - [ansible](#ansible)
@@ -17,7 +16,6 @@
 - [aws](#aws)
 - [azure](#azure)
 - [bash](#bash)
-- [bot](#bot)
 - [c](#c)
 - [chatgpt](#chatgpt)
 - [cli](#cli)
@@ -83,6 +81,7 @@
 - [reverse-engineering](#reverse-engineering)
 - [rust](#rust)
 - [security](#security)
+- [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
 - [serverless](#serverless)
 - [shell](#shell)
@@ -101,10 +100,6 @@
 - [windows](#windows)
 - [xml](#xml)
 
-## ai 
-
-- [tomquirk/linkedin-api](https://github.com/tomquirk/linkedin-api) - 👨‍💼 LinkedIn API for Python
-
 ## algorithm 
 
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
@@ -122,7 +117,6 @@
 
 ## api 
 
-- [tomquirk/linkedin-api](https://github.com/tomquirk/linkedin-api) - 👨‍💼 LinkedIn API for Python
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## archlinux 
@@ -133,7 +127,6 @@
 
 ## automation 
 
-- [tomquirk/linkedin-api](https://github.com/tomquirk/linkedin-api) - 👨‍💼 LinkedIn API for Python
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [robiot/xclicker](https://github.com/robiot/xclicker) - XClicker - Fast gui autoclicker for x11 linux desktops
 
@@ -182,10 +175,6 @@
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 
-## bot 
-
-- [tomquirk/linkedin-api](https://github.com/tomquirk/linkedin-api) - 👨‍💼 LinkedIn API for Python
-
 ## c 
 
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
@@ -198,6 +187,7 @@
 
 ## cli 
 
+- [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [vladkens/macmon](https://github.com/vladkens/macmon) - 🦀⚙️ Sudoless performance monitoring for Apple Silicon processors. CPU / GPU / RAM usage, power consumption & temperature 🌡️
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [alemidev/scope-tui](https://github.com/alemidev/scope-tui) - a simple oscilloscope/vectorscope/spectroscope for your terminal
@@ -249,7 +239,6 @@
 
 ## data 
 
-- [tomquirk/linkedin-api](https://github.com/tomquirk/linkedin-api) - 👨‍💼 LinkedIn API for Python
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 
 ## data-structures 
@@ -346,6 +335,7 @@
 
 ## golang 
 
+- [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
@@ -361,7 +351,6 @@
 ## hacktoberfest 
 
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [orhun/daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter! 📇
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
@@ -424,6 +413,7 @@
 
 ## linux 
 
+- [landlock-lsm/go-landlock](https://github.com/landlock-lsm/go-landlock) - A Go library for the Linux Landlock sandboxing feature
 - [Hello9999901/laptop](https://github.com/Hello9999901/laptop) - A highly integrated, high end, open source laptop. Attempt the impossible.
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
@@ -533,7 +523,7 @@
 - [drj11/xwd2png](https://github.com/drj11/xwd2png) - Convert output of xwd to PNG
 - [whoeevee/EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) - A tweak to get Spotify Premium for free, just like Spotilife
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
-- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
 - [node-dojo/dojo-recursive-bins](https://github.com/node-dojo/dojo-recursive-bins) - 3d printable bin generator using blender geometry nodes
 - [portal-pias/specificatii](https://github.com/portal-pias/specificatii) - Specificaţii de intefaţare cu CNAS - PIAS
@@ -570,7 +560,7 @@
 - [CodedotAl/code-clippy-vscode](https://github.com/CodedotAl/code-clippy-vscode) - VSCode extension for code suggestion
 - [G-dH/vertical-workspaces](https://github.com/G-dH/vertical-workspaces) - V-Shell is a GNOME Shell extension that allows you to customize the layout and behavior of the Shell UI.
 - [whoiskatrin/chart-gpt](https://github.com/whoiskatrin/chart-gpt) - AI tool to build charts based on text input
-- [h2337/connmap](https://github.com/h2337/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map
+- [hikmat2337/connmap](https://github.com/hikmat2337/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map
 - [ikz87/picom-shaders](https://github.com/ikz87/picom-shaders) - glsl window shaders for picom
 - [shahin8r/iptv](https://github.com/shahin8r/iptv) - A simple CLI IPTV player for M3U playlists with fuzzy finding in the terminal.
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
@@ -647,7 +637,6 @@
 ## python 
 
 - [geophile/marcel](https://github.com/geophile/marcel) - A modern shell
-- [tomquirk/linkedin-api](https://github.com/tomquirk/linkedin-api) - 👨‍💼 LinkedIn API for Python
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
 - [geopy/geopy](https://github.com/geopy/geopy) - Geocoding library for Python.
@@ -713,6 +702,8 @@
 
 ## security 
 
+- [landlock-lsm/go-landlock](https://github.com/landlock-lsm/go-landlock) - A Go library for the Linux Landlock sandboxing feature
+- [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - Network intruder and presence detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
@@ -720,6 +711,10 @@
 - [ivanilves/xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+
+## security-tools 
+
+- [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 
 ## self-hosted 
 
