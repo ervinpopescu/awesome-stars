@@ -35,12 +35,13 @@
 
 ## C 
 
+- [francma/wob](https://github.com/francma/wob) - A lightweight overlay volume/backlight/progress/anything bar for Wayland.
 - [pmartin95/random-weasel-word-search](https://github.com/pmartin95/random-weasel-word-search) - 
 - [hanslub42/rlwrap](https://github.com/hanslub42/rlwrap) - A readline wrapper
 - [fdev31/picom](https://github.com/fdev31/picom) - FTLabs fork patched to work on Qtile
 - [zevv/bucklespring](https://github.com/zevv/bucklespring) - Nostalgia bucklespring keyboard sound
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
-- [hikmat2337/connmap](https://github.com/hikmat2337/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map
+- [h2337/connmap](https://github.com/h2337/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map
 - [Mange/rofi-emoji](https://github.com/Mange/rofi-emoji) - Emoji selector plugin for Rofi
 - [Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - An audio effect processor for PipeWire and PulseAudio clients
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
@@ -132,7 +133,7 @@
 
 ## KiCad Layout 
 
-- [Hello9999901/laptop](https://github.com/Hello9999901/laptop) - A highly integrated, high end, open source laptop. Attempt the impossible.
+- [byrantech/laptop](https://github.com/byrantech/laptop) - anyon_e, a highly integrated, high end, open source laptop. Attempt the impossible.
 
 ## Kotlin 
 
@@ -230,6 +231,11 @@
 
 ## Rust 
 
+- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces).
+- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
+- [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
+- [lostatc/swtchr](https://github.com/lostatc/swtchr) - A pretty Gnome-style window switcher for the Sway window manager
+- [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [anyrun-org/anyrun](https://github.com/anyrun-org/anyrun) - A wayland native, highly customizable runner.
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [jtmoon79/super-speedy-syslog-searcher](https://github.com/jtmoon79/super-speedy-syslog-searcher) - Speedily search and merge log messages by datetime
@@ -239,7 +245,7 @@
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [alemidev/scope-tui](https://github.com/alemidev/scope-tui) - a simple oscilloscope/vectorscope/spectroscope for your terminal
-- [rosslh/Mandelbrot.site](https://github.com/rosslh/Mandelbrot.site) - Explore the Mandelbrot set fractal in your web browser. Built with Rust, Wasm, and TypeScript.
+- [rosslh/Mandelbrot.site](https://github.com/rosslh/Mandelbrot.site) - Explore the Mandelbrot set fractal online in your web browser. Built with Rust, Wasm, and TypeScript.
 - [prefix-dev/rip](https://github.com/prefix-dev/rip) - Solve and install Python packages quickly with rip (pip in Rust)
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [hsaikia/Advent-of-Code](https://github.com/hsaikia/Advent-of-Code) - Solutions to Advent of Code problems
