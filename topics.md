@@ -29,6 +29,7 @@
 - [data](#data)
 - [data-structures](#data-structures)
 - [database](#database)
+- [developer-tools](#developer-tools)
 - [development](#development)
 - [devops](#devops)
 - [docker](#docker)
@@ -258,6 +259,12 @@
 ## database 
 
 - [geophile/marcel](https://github.com/geophile/marcel) - A modern shell
+
+## developer-tools 
+
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 
 ## development 
 
@@ -534,6 +541,7 @@
 
 ## others 
 
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [lostatc/swtchr](https://github.com/lostatc/swtchr) - A pretty Gnome-style window switcher for the Sway window manager
 - [francma/wob](https://github.com/francma/wob) - Lightweight overlay volume, brightness (or anything) bar for Wayland
 - [dawsers/hyprscroller](https://github.com/dawsers/hyprscroller) - Hyprland layout plugin providing a scrolling layout like PaperWM
@@ -583,7 +591,7 @@
 - [CodedotAl/code-clippy-vscode](https://github.com/CodedotAl/code-clippy-vscode) - VSCode extension for code suggestion
 - [G-dH/vertical-workspaces](https://github.com/G-dH/vertical-workspaces) - V-Shell is a GNOME Shell extension that allows you to customize the layout and behavior of the Shell UI.
 - [whoiskatrin/chart-gpt](https://github.com/whoiskatrin/chart-gpt) - AI tool to build charts based on text input
-- [h2337/connmap](https://github.com/h2337/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map
+- [h2337/connmap](https://github.com/h2337/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map in real-time
 - [ikz87/picom-shaders](https://github.com/ikz87/picom-shaders) - glsl window shaders for picom
 - [shahin8r/iptv](https://github.com/shahin8r/iptv) - A simple CLI IPTV player for M3U playlists with fuzzy finding in the terminal.
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
@@ -624,7 +632,7 @@
 - [florentc/xob](https://github.com/florentc/xob) - A lightweight overlay volume (or anything) bar for the X Window System.
 - [arcolinux/arcolinux-qtile](https://github.com/arcolinux/arcolinux-qtile) - 
 - [qtile/qtile-examples](https://github.com/qtile/qtile-examples) - Example configurations and scripts for Qtile
-- [MichalRybecky/dots](https://github.com/MichalRybecky/dots) - 
+- [MichalRybecky/dots-nord](https://github.com/MichalRybecky/dots-nord) - 
 - [jblais493/Tranquility](https://github.com/jblais493/Tranquility) - Tranquility Dotfiles for Minimalist Computing
 - [nivekuil/rip](https://github.com/nivekuil/rip) - A safe and ergonomic alternative to rm
 - [blixabloxa/dotfiles](https://github.com/blixabloxa/dotfiles) - 
