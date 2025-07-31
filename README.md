@@ -41,7 +41,6 @@
 - [fdev31/picom](https://github.com/fdev31/picom) - FTLabs fork patched to work on Qtile
 - [zevv/bucklespring](https://github.com/zevv/bucklespring) - Nostalgia bucklespring keyboard sound
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
-- [h2337/connmap](https://github.com/h2337/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map
 - [Mange/rofi-emoji](https://github.com/Mange/rofi-emoji) - Emoji selector plugin for Rofi
 - [Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - An audio effect processor for PipeWire and PulseAudio clients
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
@@ -56,6 +55,7 @@
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
+- [h2337/connmap](https://github.com/h2337/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map in real-time
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [linuxmint/cjs](https://github.com/linuxmint/cjs) - The Cinnamon Javascript interpreter
@@ -151,6 +151,7 @@
 
 ## Others 
 
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [node-dojo/dojo-recursive-bins](https://github.com/node-dojo/dojo-recursive-bins) - 3d printable bin generator using blender geometry nodes
 - [portal-pias/specificatii](https://github.com/portal-pias/specificatii) - Specificaţii de intefaţare cu CNAS - PIAS
 - [SpotCompiled/SpotC-Plus-Plus](https://github.com/SpotCompiled/SpotC-Plus-Plus) - Compiled EeveeSpotify + QOL Enhancements IPA's, the ultimate compilement.
@@ -223,7 +224,7 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [arcolinux/arcolinux-qtile](https://github.com/arcolinux/arcolinux-qtile) - 
 - [qtile/qtile-examples](https://github.com/qtile/qtile-examples) - Example configurations and scripts for Qtile
-- [MichalRybecky/dots](https://github.com/MichalRybecky/dots) - 
+- [MichalRybecky/dots-nord](https://github.com/MichalRybecky/dots-nord) - 
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [blixabloxa/dotfiles](https://github.com/blixabloxa/dotfiles) - 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
