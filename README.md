@@ -41,6 +41,7 @@
 - [fdev31/picom](https://github.com/fdev31/picom) - FTLabs fork patched to work on Qtile
 - [zevv/bucklespring](https://github.com/zevv/bucklespring) - Nostalgia bucklespring keyboard sound
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
+- [h2337/connmap](https://github.com/h2337/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map in real-time
 - [Mange/rofi-emoji](https://github.com/Mange/rofi-emoji) - Emoji selector plugin for Rofi
 - [Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - An audio effect processor for PipeWire and PulseAudio clients
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
@@ -55,7 +56,6 @@
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
-- [h2337/connmap](https://github.com/h2337/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map in real-time
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [linuxmint/cjs](https://github.com/linuxmint/cjs) - The Cinnamon Javascript interpreter
