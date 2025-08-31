@@ -105,7 +105,6 @@
 - [website](#website)
 - [windows](#windows)
 - [xml](#xml)
-- [zsh](#zsh)
 
 ## algorithm 
 
@@ -553,7 +552,6 @@
 - [actions-runner-controller/runner-images](https://github.com/actions-runner-controller/runner-images) - 
 - [beikeni/github-runner-dockerfile](https://github.com/beikeni/github-runner-dockerfile) - Dockerfile for the creation of a GitHub Actions runner image to be deployed dynamically
 - [drj11/xwd2png](https://github.com/drj11/xwd2png) - Convert output of xwd to PNG
-- [whoeevee/EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) - A tweak to get Spotify Premium for free, just like Spotilife
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
@@ -579,7 +577,7 @@
 - [delphiki/AirStatus](https://github.com/delphiki/AirStatus) - Check AirPods battery levels on Linux
 - [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
 - [clotodex/qtile-install-script](https://github.com/clotodex/qtile-install-script) - A suite to install qtile with all dependencies correctly (used for personal debugging and issue reporting)
-- [jsh9/pydoclint](https://github.com/jsh9/pydoclint) - A Python docstring linter that checks arguments, returns, yields, and raises sections
+- [jsh9/pydoclint](https://github.com/jsh9/pydoclint) - A very fast Python docstring linter
 - [annotated-types/annotated-types](https://github.com/annotated-types/annotated-types) - Reusable constraint types to use with typing.Annotated
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
 - [tsoding/seroost](https://github.com/tsoding/seroost) - Local Search Engine
@@ -873,13 +871,6 @@
 ## xml 
 
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
-
-## zsh 
-
-- [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir) - My zsh config
-- [marzocchi/zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long-running commands in zsh.
-- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [lokesh-krishna/dotfiles](https://github.com/lokesh-krishna/dotfiles) - My dotfiles
 
 
 ## License
