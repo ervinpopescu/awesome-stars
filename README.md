@@ -43,6 +43,7 @@
 - [h2337/connmap](https://github.com/h2337/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map in real-time
 - [Mange/rofi-emoji](https://github.com/Mange/rofi-emoji) - Emoji selector plugin for Rofi
 - [Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - An audio effect processor for PipeWire and PulseAudio clients
+- [pyavitz/debian-image-builder](https://github.com/pyavitz/debian-image-builder) - Debian image builder for single board computers
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [florentc/xob](https://github.com/florentc/xob) - A lightweight overlay volume (or anything) bar for the X Window System.
@@ -51,6 +52,7 @@
 
 ## C++ 
 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [dawsers/hyprscroller](https://github.com/dawsers/hyprscroller) - Hyprland layout plugin providing a scrolling layout like PaperWM
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
@@ -120,7 +122,6 @@
 ## JavaScript 
 
 - [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - Network intruder and presence detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
-- [cdvillegas/zen-api](https://github.com/cdvillegas/zen-api) - Create and deploy APIs without writing code
 - [apigeecs/apigee-migrate-tool](https://github.com/apigeecs/apigee-migrate-tool) - Export/Import Org Data. Import from CSV files
 - [apigeecs/apigee-cli-trace](https://github.com/apigeecs/apigee-cli-trace) - 
 - [CodedotAl/code-clippy-vscode](https://github.com/CodedotAl/code-clippy-vscode) - VSCode extension for code suggestion
@@ -175,6 +176,7 @@
 
 ## Python 
 
+- [qmk/qmk_cli](https://github.com/qmk/qmk_cli) - A program to help users work with QMK
 - [drj11/xwd2png](https://github.com/drj11/xwd2png) - Convert output of xwd to PNG
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [geophile/marcel](https://github.com/geophile/marcel) - A modern shell
@@ -209,7 +211,7 @@
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot) - A bot to win Kahoots
 - [x2es/bt-dualboot](https://github.com/x2es/bt-dualboot) - Sync Bluetooth for dualboot Linux and Windows
-- [mikepqr/resume.md](https://github.com/mikepqr/resume.md) - Write your resume in Markdown, style it with CSS, output to HTML and PDF
+- [mikepqr/resume-markdown](https://github.com/mikepqr/resume-markdown) - Write your resume in Markdown, style it with CSS, output to HTML and PDF
 - [antoniosarosi/pycritty](https://github.com/antoniosarosi/pycritty) - CLI program that allows you to change your Alacritty config with one command without editing the config file.
 - [elParaguayo/qtile-extras](https://github.com/elParaguayo/qtile-extras) - Somewhere to store things I create for qtile that probably won't end up in the official repo
 - [elisemercury/Duplicate-Image-Finder](https://github.com/elisemercury/Duplicate-Image-Finder) - difPy - Python package for finding duplicate and similar images
@@ -230,6 +232,8 @@
 
 ## Rust 
 
+- [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs) - macOS: mount any linux-supported filesystem read/write using NFS and a microVM
+- [pichfl/via-send-raw](https://github.com/pichfl/via-send-raw) - Send raw data to VIA/VIAL/QMK compatible keyboards
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces).
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
@@ -262,7 +266,7 @@
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
-- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [dinkelspiel/chess](https://github.com/dinkelspiel/chess) - a simple chess game to play locally on a tablet or with a mouse
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
@@ -292,7 +296,6 @@
 - [mkropat/jumpapp](https://github.com/mkropat/jumpapp) - A run-or-raise application switcher for any X11 desktop
 - [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir) - My zsh config
 - [marzocchi/zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long-running commands in zsh.
-- [pyavitz/debian-image-builder](https://github.com/pyavitz/debian-image-builder) - Debian image builder for single board computers
 - [tyzrex/Linux-Dot-Files](https://github.com/tyzrex/Linux-Dot-Files) - Repo consisting of my current dot files for i3 window manager just incase i do something stupid which leads me to reinstall my whole system :/
 - [Ruturajn/Dotfiles](https://github.com/Ruturajn/Dotfiles) - My Config Files for starship, qtile, rofi, fish, etc. and a few bash scripts for installing Arch and setting up the dotfiles on Arch and Ubuntu.
 - [ivanilves/xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
