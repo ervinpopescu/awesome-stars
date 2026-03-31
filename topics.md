@@ -43,6 +43,7 @@
 - [education](#education)
 - [electron](#electron)
 - [emacs](#emacs)
+- [fastapi](#fastapi)
 - [framework](#framework)
 - [game-development](#game-development)
 - [gamedev](#gamedev)
@@ -161,7 +162,7 @@
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
@@ -217,6 +218,7 @@
 
 ## cli 
 
+- [Noah4ever/sshconfig-lint](https://github.com/Noah4ever/sshconfig-lint) - Linter for OpenSSH client config files.
 - [0xsouravm/oxichrome](https://github.com/0xsouravm/oxichrome) - Framework to build browser extensions entirely in Rust with proc macros, type-safe Chrome API bindings, and Leptos for reactive UI. Compiles to WebAssembly with zero hand-written JavaScript.
 - [0xjuanma/golazo](https://github.com/0xjuanma/golazo) - The beautiful game in your terminal. Minimal TUI app to keep up with live & recent football/soccer matches written in Go.
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
@@ -363,6 +365,10 @@
 ## emacs 
 
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
+
+## fastapi 
+
+- [rainmanjam/jobspy-api](https://github.com/rainmanjam/jobspy-api) - Dockerized version of JobSpy job search utility with API key auth, rate limiting, and proxy support.
 
 ## framework 
 
@@ -739,7 +745,7 @@
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [tr11/python-configuration](https://github.com/tr11/python-configuration) - A Python library to load configuration parameters
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree) - A command line utility to display dependency tree of the installed Python packages
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [python-hyper/hyperlink](https://github.com/python-hyper/hyperlink) - 🔗 Immutable, Pythonic, correct URLs.
@@ -775,6 +781,7 @@
 
 ## rust 
 
+- [Noah4ever/sshconfig-lint](https://github.com/Noah4ever/sshconfig-lint) - Linter for OpenSSH client config files.
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services.
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
