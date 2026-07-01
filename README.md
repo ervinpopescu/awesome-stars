@@ -40,14 +40,14 @@
 - [fdev31/picom](https://github.com/fdev31/picom) - FTLabs fork patched to work on Qtile
 - [zevv/bucklespring](https://github.com/zevv/bucklespring) - Nostalgia bucklespring keyboard sound
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
-- [h2337/connmap](https://github.com/h2337/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map in real-time
+- [cantrepro/connmap](https://github.com/cantrepro/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map in real-time
 - [Mange/rofi-emoji](https://github.com/Mange/rofi-emoji) - Emoji selector plugin for Rofi
 - [Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - An audio effect processor for PipeWire and PulseAudio clients
 - [pyavitz/debian-image-builder](https://github.com/pyavitz/debian-image-builder) - Debian image builder
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool
 - [florentc/xob](https://github.com/florentc/xob) - A lightweight overlay volume (or anything) bar for the X Window System.
-- [robiot/xclicker](https://github.com/robiot/xclicker) - XClicker - Fast gui autoclicker for x11 linux desktops
+- [robiot/xclicker](https://github.com/robiot/xclicker) - XClicker - Fast GUI autoclicker for x11 linux desktops
 - [tomaspinho/rtl8821ce](https://github.com/tomaspinho/rtl8821ce) - 
 
 ## C++ 
@@ -79,7 +79,7 @@
 
 ## Emacs Lisp 
 
-- [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
+- [doomemacs/core](https://github.com/doomemacs/core) - An Emacs framework for the stubborn martian hacker
 
 ## GDScript 
 
@@ -103,6 +103,7 @@
 - [forscht/xd](https://github.com/forscht/xd) - Dynamic dmenu generator from yaml config
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [unixpickle/kahoot-hack](https://github.com/unixpickle/kahoot-hack) - Reverse engineering kahoot.it
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 
@@ -112,7 +113,6 @@
 
 ## HTML 
 
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [orf/html-query](https://github.com/orf/html-query) - jq, but for HTML
 - [zl0rgb/new_tab](https://github.com/zl0rgb/new_tab) - just my custom homepage
 - [lokesh-krishna/dotfiles](https://github.com/lokesh-krishna/dotfiles) - My dotfiles
@@ -137,7 +137,7 @@
 
 ## Kotlin 
 
-- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
+- [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
 - [daniel-seiler/ImageTheming](https://github.com/daniel-seiler/ImageTheming) - Match a wallpaper to your color scheme
 
 ## Lua 
@@ -178,6 +178,7 @@
 
 ## Python 
 
+- [lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check) - Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.
 - [rainmanjam/jobspy-api](https://github.com/rainmanjam/jobspy-api) - Dockerized version of JobSpy job search utility with API key auth, rate limiting, and proxy support.
 - [qmk/qmk_cli](https://github.com/qmk/qmk_cli) - A program to help users work with QMK
 - [drj11/xwd2png](https://github.com/drj11/xwd2png) - Convert output of xwd to PNG
@@ -273,6 +274,7 @@
 - [tsoding/seroost](https://github.com/tsoding/seroost) - Local Search Engine
 - [dskkato/tf2_python_rust](https://github.com/dskkato/tf2_python_rust) - Demonstration of TensorFlow 2.x interoperability between Python and Rust
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast, feature-rich static code analyzer & language server for Python
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
@@ -310,7 +312,6 @@
 - [Ruturajn/Dotfiles](https://github.com/Ruturajn/Dotfiles) - My Config Files for starship, qtile, rofi, fish, etc. and a few bash scripts for installing Arch and setting up the dotfiles on Arch and Ubuntu.
 - [ivanilves/xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
 - [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
-- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [o2sh/dotfiles](https://github.com/o2sh/dotfiles) - There is no place like ~ !
 - [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
@@ -327,7 +328,7 @@
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
 - [whoiskatrin/chart-gpt](https://github.com/whoiskatrin/chart-gpt) - AI tool to build charts based on text input
-- [stumpapp/stump](https://github.com/stumpapp/stump) - A free and open source comics, manga and digital book server with OPDS support (WIP)
+- [stumpapp/stump](https://github.com/stumpapp/stump) - A free and open source comics, manga and digital book server with OPDS support
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
